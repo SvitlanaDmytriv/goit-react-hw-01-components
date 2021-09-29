@@ -1,4 +1,3 @@
-// import Statistics from "./Statistics";
 import PropTypes from 'prop-types';
 
 export default function StatisticsList({ title, stat }) {
